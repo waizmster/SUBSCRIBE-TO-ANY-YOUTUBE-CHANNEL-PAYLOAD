@@ -11,7 +11,7 @@ DELAY 200
 STRING chrome
 ENTER
 DELAY 500
-STRING https://www.youtube.com/results?search_query=MrBeast
+STRING https://www.youtube.com/@MrBeast
 ENTER
 DELAY 2000
 TAB
