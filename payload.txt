@@ -1,4 +1,5 @@
-REM:  Name: SUBSCRIBE-TO-ANY-YOUTUBE-CHANNEL-PAYLOAD
+REM:  Author: waizmster
+REM:  Title: SUBSCRIBE-TO-ANY-YOUTUBE-CHANNEL-PAYLOAD
 REM:  Description: Make your victim sucscribe to any youtuber of your choice.
 REM:  Target: Windows 10,11
 REM: Modifications: The default channel is MrBeast, but if you want to change that replace the link with your desireed link. Good luck ;), no need for startin delay ONLY if you have the new Rubber Ducky USB.
